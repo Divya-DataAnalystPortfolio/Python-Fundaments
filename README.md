@@ -45,4 +45,54 @@ Implemented operations such as:
 - Defining functions
 - Parameters and return values
 - Code reusability
-- Modu
+- Modular programming practices
+
+---
+
+## 💡 Mini Project: Customer Support Ticket Analyzer
+
+### Objective
+To analyze customer support ticket data and extract useful insights using Python.
+
+### Key Functionalities
+- Categorizing tickets
+- Counting ticket frequency
+- Identifying common issue types
+- Applying loops and conditional logic for analysis
+
+### Skills Demonstrated
+- Data handling using dictionaries and lists
+- Logical condition implementation
+- Function-based modular coding
+- Practical problem-solving approach
+
+---
+
+## 🛠 Tools & Technologies
+- Python 3
+- Jupyter Notebook (.ipynb)
+- GitHub
+
+---
+
+## 📂 Repository Contents
+- Python notebooks (.ipynb)
+- Assignment PDFs
+- Practice exercises on data structures
+- Customer Support Ticket Analyzer implementation
+
+---
+
+## 🎯 Learning Outcomes
+Through this project, I strengthened:
+
+- Python programming fundamentals
+- Data structure manipulation
+- Logical reasoning and algorithmic thinking
+- Writing clean and reusable code
+- Applying Python to real-world scenarios
+
+---
+
+## 🚀 Career Focus
+This project is part of my journey toward building strong technical skills for a Data Analyst role, with emphasis on Python-based data processing and analysis.
